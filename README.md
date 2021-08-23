@@ -1,4 +1,4 @@
-﻿# Shopping-Cart
+﻿# Shop4U
 This Project includes two Web Applications, the first one is for admins to
 add, update or delete the new category, product details and can see
 details of orders placed by each user. The second one is an e-commerce
